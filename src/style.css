@@ -1,0 +1,16 @@
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.first-label {
+  margin: 0;
+}
+
+#old {
+  width: 65px;
+}
