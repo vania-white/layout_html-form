@@ -1,4 +1,4 @@
-label {
+.form-label {
   display: block;
   margin-top: 10px;
 }
@@ -7,7 +7,7 @@ fieldset {
   margin-bottom: 20px;
 }
 
-.first-label {
+.first {
   margin: 0;
 }
 
